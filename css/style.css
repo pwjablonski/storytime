@@ -10,6 +10,11 @@ html, body {
     margin: auto;
 }
 
+#info{
+    margin-top: 1em;
+    color: white;
+}
+
 #count{
     color: white;
 }
