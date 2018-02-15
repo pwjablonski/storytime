@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #ff7f7f;
+}
+
+.content{
+    margin: auto;
+}
+
+#count{
+    color: white;
+}
+.btn-story {
+    background-color: #ff7f7f;
+    border-color: white;
+    color:white;
+}
+
+.btn-story:hover {
+    background-color: white;
+    border-color: white;
+    color:black;
+}
